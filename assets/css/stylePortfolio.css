@@ -2,7 +2,7 @@ body {
   font-family: 'Teko', sans-serif;
   font-size: 20px;
   line-height: 34px;
-  color: #777;
+  color: #793b3b;
   background: url("https://raw.githubusercontent.com/janellguzman/Portfolio/master/assets/images/portfolioBackground.jpg");
 }
 
@@ -30,11 +30,11 @@ footer,
 
 #logo:hover,
 input[type=submit]:hover {
-  background: #5e7f7e;
+  background: rgba(146, 145, 143, 0.822);
 }
 
 nav a:hover {
-  color: #5e7f7e;
+  color: rgba(146, 145, 143, 0.822);
 }
 
 .social:hover {
@@ -65,7 +65,7 @@ h2,
 h3 {
   font-family: 'Bree Serif', serif;
   font-weight: 700;
-  color: brown;
+  color: rgba(160, 67, 5, 0.808);
 }
 
 h1 {
@@ -88,7 +88,7 @@ h3 {
   width: 100%;
   margin: 0 0 30px;
   overflow: auto;
-  color: #fff;
+  color: rgba(255, 255, 255, 0.5);
   background: #fff;
   border-bottom: 2px solid #ccc;
 }
@@ -104,7 +104,7 @@ h3 {
   color: #fff;
   text-align: center;
   text-decoration: none;
-  background: brown;
+  background: rgba(160, 67, 5, 0.808);
 }
 
 nav {
@@ -136,7 +136,7 @@ footer {
   color: #ccc;
   text-align: center;
   background: #666;
-  border-top: 8px solid brown;
+  border-top: 8px solid rgba(160, 67, 5, 0.808);
 }
 
 /* sidebar */
@@ -147,7 +147,7 @@ footer {
   max-width: 270px;
   padding: 30px;
   margin-bottom: 20px;
-  background: #fff;
+  background: rgba(146, 145, 143, 0.822);
   border: 1px solid #ddd;
 }
 
@@ -182,7 +182,7 @@ h3,
   max-width: 650px;
   padding: 30px;
   margin: 0 0 40px;
-  background: #fff;
+  background: rgba(146, 145, 143, 0.822);
   border: 1px solid #ddd;
 }
 
@@ -222,6 +222,6 @@ input[type=submit] {
   font-size: 18px;
   color: #fff;
   cursor: pointer;
-  background: brown;
+  background: rgba(160, 67, 5, 0.808);
   border: 0 none;
 }
