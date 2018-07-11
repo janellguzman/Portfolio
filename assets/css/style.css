@@ -3,7 +3,7 @@ body {
   font-size: 20px;
   font-weight: bold;
   line-height: 34px;
-  color: #1d1591;
+  color: #ffffff;
   background: url("https://raw.githubusercontent.com/janellguzman/Portfolio/master/assets/images/downtownSD.jpg");
 }
 
@@ -183,7 +183,7 @@ h3,
   max-width: 650px;
   padding: 30px;
   margin: 0 0 40px;
-  background: rgba(146, 145, 143, 0.822);
+  background: rgba(146, 145, 143, 0.459);
   border: 1px solid #ddd;
 }
 
